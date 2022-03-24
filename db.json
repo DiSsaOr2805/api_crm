@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ignacio",
+      "empresa": "Luis A. Demartin e Hijos S.A.",
+      "email": "nacho2805@yahoo.com.ar",
+      "telefono": "03434478172",
+      "notas": "<xzc",
+      "id": 1
+    },
+    {
+      "nombre": "Knappe Victoria",
+      "empresa": "Canal 9 Litoral",
+      "email": "nacho2805@yahoo.com.ar",
+      "telefono": "4478172",
+      "notas": "zxcv",
+      "id": 3
+    }
+  ]
+}
